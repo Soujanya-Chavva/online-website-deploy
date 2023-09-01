@@ -13,14 +13,14 @@ function App() {
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"/>
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <Router>
+    <Router basename='/online-website-deploy'>
       <Routes>
       <Route exact path="/" element= { <Home/>}/>
-      <Route exact path="/login" element= { <Login/>}/>
-      <Route exact path="/signup" element= { <Register/>}/>
-      <Route exact path="/products" element= { <Products/>}/>
-      <Route exact path="/cart" element= { <Cart/>}/>
-      <Route exact path = "/orders" element = {<Orders/>} />
+      <Route  path="/login" element= { <Login/>}/>
+      <Route  path="/signup" element= { <Register/>}/>
+      <Route  path="/products" element= { <Products/>}/>
+      <Route  path="/cart" element= { <Cart/>}/>
+      <Route  path = "/orders" element = {<Orders/>} />
 
 
       </Routes>
