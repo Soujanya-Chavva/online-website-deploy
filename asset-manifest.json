@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/online-website-deploy/static/css/main.029c0267.css",
-    "main.js": "/online-website-deploy/static/js/main.e10fb722.js",
-    "static/js/787.7f5c514b.chunk.js": "/online-website-deploy/static/js/787.7f5c514b.chunk.js",
+    "main.js": "/online-website-deploy/static/js/main.7fee1fef.js",
+    "static/js/787.d99afdf8.chunk.js": "/online-website-deploy/static/js/787.d99afdf8.chunk.js",
     "static/media/wedani.jpg": "/online-website-deploy/static/media/wedani.96c31c48081f05f484ce.jpg",
     "static/media/home3.jpg": "/online-website-deploy/static/media/home3.0cc42b4427ad3518b299.jpg",
     "static/media/siril.jpg": "/online-website-deploy/static/media/siril.27e4c8c9466d65be9cf2.jpg",
@@ -16,11 +16,11 @@
     "static/media/kidswear1.jpg": "/online-website-deploy/static/media/kidswear1.73b64d5d745069e17fbf.jpg",
     "index.html": "/online-website-deploy/index.html",
     "main.029c0267.css.map": "/online-website-deploy/static/css/main.029c0267.css.map",
-    "main.e10fb722.js.map": "/online-website-deploy/static/js/main.e10fb722.js.map",
-    "787.7f5c514b.chunk.js.map": "/online-website-deploy/static/js/787.7f5c514b.chunk.js.map"
+    "main.7fee1fef.js.map": "/online-website-deploy/static/js/main.7fee1fef.js.map",
+    "787.d99afdf8.chunk.js.map": "/online-website-deploy/static/js/787.d99afdf8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.029c0267.css",
-    "static/js/main.e10fb722.js"
+    "static/js/main.7fee1fef.js"
   ]
 }
