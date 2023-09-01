@@ -15,12 +15,12 @@ function App() {
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <Router>
       <Routes>
-      <Route path="/" element= { <Home/>}/>
-      <Route path="/login" element= { <Login/>}/>
-      <Route path="/signup" element= { <Register/>}/>
-      <Route path="/products" element= { <Products/>}/>
-      <Route path="/cart" element= { <Cart/>}/>
-      <Route path = "/orders" element = {<Orders/>} />
+      <Route exact path="/" element= { <Home/>}/>
+      <Route exact path="/login" element= { <Login/>}/>
+      <Route exact path="/signup" element= { <Register/>}/>
+      <Route exact path="/products" element= { <Products/>}/>
+      <Route exact path="/cart" element= { <Cart/>}/>
+      <Route exact path = "/orders" element = {<Orders/>} />
 
 
       </Routes>
