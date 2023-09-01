@@ -9,7 +9,7 @@ import {auth, db } from '../../firebase-config/firebase';
 import {createUserWithEmailAndPassword} from 'firebase/auth';
 import { doc, setDoc} from '../../firebase-config/firebase';
 
-
+//Register
 
 const Register = () => {
   const navigate = useNavigate();
