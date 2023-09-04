@@ -112,7 +112,6 @@ import {
         setCartItems((prevCartItems) =>
           prevCartItems.filter((item) => item.id !== cartItemId)
         );
-        window.location.reload();
       } catch (error) {
         console.error(error);
       }
